@@ -11795,19 +11795,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Onelife\\.nuget\\packages\\": {}
+    "C:\\Users\\HOME\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj",
+      "projectUniqueName": "C:\\Users\\HOME\\Source\\Repos\\Aliler-Kalkinma-Ajansi-Backend-Bootcamp\\AdminPanel\\admin\\admin.csproj",
       "projectName": "admin",
-      "projectPath": "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj",
-      "packagesPath": "C:\\Users\\Onelife\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\obj\\",
+      "projectPath": "C:\\Users\\HOME\\Source\\Repos\\Aliler-Kalkinma-Ajansi-Backend-Bootcamp\\AdminPanel\\admin\\admin.csproj",
+      "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HOME\\Source\\Repos\\Aliler-Kalkinma-Ajansi-Backend-Bootcamp\\AdminPanel\\admin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Onelife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
