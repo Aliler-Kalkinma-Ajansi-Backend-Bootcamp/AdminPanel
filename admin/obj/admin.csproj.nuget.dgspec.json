@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/admin.csproj": {}
+    "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj": {}
   },
   "projects": {
-    "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/admin.csproj": {
+    "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/admin.csproj",
+        "projectUniqueName": "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj",
         "projectName": "admin",
-        "projectPath": "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/admin.csproj",
-        "packagesPath": "/Users/saidahmetbayrak/.nuget/packages/",
-        "outputPath": "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/obj/",
+        "projectPath": "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\Onelife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/saidahmetbayrak/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Onelife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +68,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
