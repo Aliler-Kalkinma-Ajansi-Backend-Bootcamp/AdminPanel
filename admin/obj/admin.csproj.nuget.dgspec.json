@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj": {}
+    "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj": {
+    "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj",
+        "projectUniqueName": "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\admin.csproj",
         "projectName": "admin",
-        "projectPath": "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\admin.csproj",
-        "packagesPath": "C:\\Users\\Onelife\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onelife\\source\\repos\\AdminPanel\\admin\\obj\\",
+        "projectPath": "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\harun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Onelife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harun\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
