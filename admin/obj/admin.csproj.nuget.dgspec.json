@@ -1,30 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/admin.csproj": {}
+    "C:\\Users\\VodviL\\source\\repos\\KodluyoruzOdevleri\\Admin\\admin\\admin.csproj": {}
   },
   "projects": {
-    "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/admin.csproj": {
+    "C:\\Users\\VodviL\\source\\repos\\KodluyoruzOdevleri\\Admin\\admin\\admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/admin.csproj",
+        "projectUniqueName": "C:\\Users\\VodviL\\source\\repos\\KodluyoruzOdevleri\\Admin\\admin\\admin.csproj",
         "projectName": "admin",
-        "projectPath": "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/admin.csproj",
-        "packagesPath": "/Users/saidahmetbayrak/.nuget/packages/",
-        "outputPath": "/Users/saidahmetbayrak/Downloads/SampleAdminPanel/admin/obj/",
+        "projectPath": "C:\\Users\\VodviL\\source\\repos\\KodluyoruzOdevleri\\Admin\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\VodviL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VodviL\\source\\repos\\KodluyoruzOdevleri\\Admin\\admin\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/saidahmetbayrak/.config/NuGet/NuGet.Config"
+          "C:\\Users\\VodviL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -36,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -66,7 +69,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
