@@ -40,10 +40,8 @@ C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\bin\Debug\netcoreapp
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\bin\Debug\netcoreapp2.1\admin.pdb
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\bin\Debug\netcoreapp2.1\admin.Views.dll
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\bin\Debug\netcoreapp2.1\admin.Views.pdb
-C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.csprojAssemblyReference.cache
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.AssemblyInfoInputs.cache
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.AssemblyInfo.cs
-C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.csproj.CoreCompileInputs.cache
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.RazorAssemblyInfo.cache
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.RazorAssemblyInfo.cs
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.TagHelpers.input.cache
@@ -66,3 +64,6 @@ C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.pdb
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.genruntimeconfig.cache
 C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.csproj.CopyComplete
+C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.csprojAssemblyReference.cache
+C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\admin.csproj.CoreCompileInputs.cache
+C:\Users\VodviL\source\repos\KodluyoruzOdevleri\Admin\admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DirectChat.cshtml.g.cs
