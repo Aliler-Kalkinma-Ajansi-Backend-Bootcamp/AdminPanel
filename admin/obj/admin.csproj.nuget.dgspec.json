@@ -1,20 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BuseYalcin\\Source\\Repos\\AdminPanel\\admin\\admin.csproj": {}
+<<<<<<< HEAD
+    "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BuseYalcin\\Source\\Repos\\AdminPanel\\admin\\admin.csproj": {
+    "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BuseYalcin\\Source\\Repos\\AdminPanel\\admin\\admin.csproj",
+        "projectUniqueName": "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\admin.csproj",
         "projectName": "admin",
-        "projectPath": "C:\\Users\\BuseYalcin\\Source\\Repos\\AdminPanel\\admin\\admin.csproj",
-        "packagesPath": "C:\\Users\\BuseYalcin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BuseYalcin\\Source\\Repos\\AdminPanel\\admin\\obj\\",
+        "projectPath": "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\harun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harun\\Source\\Repos\\AdminPanel\\admin\\obj\\",
+=======
+    "C:\\Users\\pc\\Source\\Repos\\AdminPanel\\admin\\admin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pc\\Source\\Repos\\AdminPanel\\admin\\admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pc\\Source\\Repos\\AdminPanel\\admin\\admin.csproj",
+        "projectName": "admin",
+        "projectPath": "C:\\Users\\pc\\Source\\Repos\\AdminPanel\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc\\Source\\Repos\\AdminPanel\\admin\\obj\\",
+>>>>>>> yusuf
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\BuseYalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+          "C:\\Users\\harun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> yusuf
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
