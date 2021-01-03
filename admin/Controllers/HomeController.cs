@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using admin.Models;
 
 namespace admin.Controllers
-{
+{ //Deneme
     public class HomeController : Controller
     {
         public IActionResult Index()
